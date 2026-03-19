@@ -109,4 +109,4 @@ python src/05_model_optimization.py
 
 ## 📬 Contact
 
-Feel free to open an issue or connect on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE).
+Feel free to open an issue or connect on [LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/havvanur-ai/)).
